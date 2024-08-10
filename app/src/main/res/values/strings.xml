@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PrankCall App Demo</string>
+    <string name="call">Call</string>
+    <string name="stop">Stop</string>
+    <string name="sms">SMS</string>
+    <string name="no_messages">No messages</string>
+    <string name="chat">Chat</string>
+    <string name="text_message">Text Message</string>
+    <string name="take_screenshot">Take Screenshot</string>
+    <string name="receive">Receive</string>
+    <string name="send">Send</string>
+</resources>
